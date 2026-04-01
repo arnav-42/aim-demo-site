@@ -3,7 +3,7 @@ layout: page
 permalink: /events/
 title: events
 description: Event listings, schedules, and related resources.
-nav: true
+nav: false
 nav_order: 6
 calendar: true
 ---

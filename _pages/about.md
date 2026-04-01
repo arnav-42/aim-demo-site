@@ -6,10 +6,10 @@ subtitle: Purdue University
 
 profile:
   align: right
-  image: basic_amt.png
+  image: aim.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>A simple example of automatic music transcription.</p>
+    <p></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page

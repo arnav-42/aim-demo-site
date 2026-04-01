@@ -7,6 +7,6 @@ dropdown: true
 children:
   - title: repositories
     permalink: /repositories/
-  - title: people
-    permalink: /people/
+  - title: contact
+    permalink: /contact/
 ---
